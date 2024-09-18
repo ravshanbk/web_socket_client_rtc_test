@@ -1,4 +1,4 @@
-import 'package:web_socket_client_rtc_test/web_socket_client_rtc_test.dart';
+import 'package:web_socket_client_rtc_test/web_socket_client.dart';
 
 /// {@template linear_backoff}
 /// A linear backoff strategy.

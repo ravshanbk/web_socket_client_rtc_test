@@ -1,4 +1,4 @@
-import 'package:web_socket_client_rtc_test/web_socket_client_rtc_test.dart';
+import 'package:web_socket_client_rtc_test/web_socket_client.dart';
 
 /// {@template binary_exponential_backoff}
 /// A binary exponential backoff strategy.

@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:web_socket_client_rtc_test/web_socket_client_rtc_test.dart';
+import 'package:web_socket_client_rtc_test/web_socket_client.dart';
 
 /// An object which contains information regarding the
 /// current WebSocket connection.

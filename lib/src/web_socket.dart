@@ -8,7 +8,7 @@ import 'package:web_socket_client_rtc_test/src/_web_socket_connect/_web_socket_c
     if (dart.library.io) 'package:web_socket_client_rtc_test/src/_web_socket_connect/_web_socket_connect_io.dart'
     if (dart.library.html) 'package:web_socket_client_rtc_test/src/_web_socket_connect/_web_socket_connect_html.dart';
 import 'package:web_socket_client_rtc_test/src/connection.dart';
-import 'package:web_socket_client_rtc_test/web_socket_client_rtc_test.dart';
+import 'package:web_socket_client_rtc_test/web_socket_client.dart';
 
 /// The default backoff strategy.
 final _defaultBackoff = BinaryExponentialBackoff(
