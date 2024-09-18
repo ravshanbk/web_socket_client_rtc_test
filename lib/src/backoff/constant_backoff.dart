@@ -1,4 +1,4 @@
-import 'package:web_socket_client/web_socket_client.dart';
+import 'package:web_socket_client_rtc_test/web_socket_client_rtc_test.dart';
 
 /// {@template constant_backoff}
 /// A constant backoff strategy.

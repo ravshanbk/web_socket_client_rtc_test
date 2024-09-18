@@ -157,7 +157,7 @@ socket.messages.listen((message) {
 
 ## Protobuf 💬
 
-If you're using `web_socket_client` on the web with Protobuf, you might
+If you're using `web_socket_client_rtc_test` on the web with Protobuf, you might
 want to use `binaryType` when initializing the `WebSocket` class.
 `binaryType` is only applicable on the web and is not used on desktop or mobile platforms.
 
@@ -183,13 +183,13 @@ final socket = WebSocket(Uri.parse('ws://localhost:8080'));
 socket.close(1000, 'CLOSE_NORMAL');
 ```
 
-[build_badge]: https://github.com/felangel/web_socket_client/actions/workflows/main.yaml/badge.svg
-[build_link]: https://github.com/felangel/web_socket_client/actions/workflows/main.yaml
-[coverage_badge]: https://raw.githubusercontent.com/felangel/web_socket_client/main/coverage_badge.svg
+[build_badge]: https://github.com/felangel/web_socket_client_rtc_test/actions/workflows/main.yaml/badge.svg
+[build_link]: https://github.com/felangel/web_socket_client_rtc_test/actions/workflows/main.yaml
+[coverage_badge]: https://raw.githubusercontent.com/felangel/web_socket_client_rtc_test/main/coverage_badge.svg
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
-[pub_badge]: https://img.shields.io/pub/v/web_socket_client.svg
-[pub_link]: https://pub.dartlang.org/packages/web_socket_client
+[pub_badge]: https://img.shields.io/pub/v/web_socket_client_rtc_test.svg
+[pub_link]: https://pub.dartlang.org/packages/web_socket_client_rtc_test
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
 [very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
-# web_socket_client_rtc_test
+# web_socket_client_rtc_test_rtc_test

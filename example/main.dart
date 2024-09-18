@@ -1,5 +1,5 @@
 // ignore_for_file: avoid_print
-import 'package:web_socket_client/web_socket_client.dart';
+import 'package:web_socket_client_rtc_test/web_socket_client_rtc_test.dart';
 
 void main() async {
   // Create a WebSocket client.

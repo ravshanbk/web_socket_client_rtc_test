@@ -1,6 +1,6 @@
-name: web_socket_client
+name: web_socket_client_rtc_test
 description: A simple WebSocket client for Dart which includes automatic reconnection logic.
-repository: https://github.com/felangel/web_socket_client
+repository: https://github.com/felangel/web_socket_client_rtc_test
 version: 0.1.4
 topics: [web-socket, web-socket-client]
 funding: [https://github.com/sponsors/felangel]

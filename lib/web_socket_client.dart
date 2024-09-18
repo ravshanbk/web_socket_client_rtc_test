@@ -1,5 +1,5 @@
 /// A reusable WebSocket client for Dart.
-library web_socket_client;
+library web_socket_client_rtc_test;
 
 export 'src/backoff/backoff.dart' show Backoff;
 export 'src/backoff/binary_exponential_backoff.dart'

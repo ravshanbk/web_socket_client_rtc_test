@@ -5,7 +5,7 @@
 // import 'package:test/test.dart';
 // import 'package:web_socket_channel/io.dart';
 // import 'package:web_socket_channel/web_socket_channel.dart';
-// import 'package:web_socket_client/web_socket_client.dart';
+// import 'package:web_socket_client_rtc_test/web_socket_client_rtc_test.dart';
 //
 // class _MockBackoff extends Mock implements Backoff {}
 //
